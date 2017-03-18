@@ -1,2 +1,2 @@
 # Item Loader - React
-Create, read update and delete database records – CRUD operations with PHP, MySQL, React, Babel, jQuery and Bootstrap.
+This script shows how to create, read, update, and delete database records with React.
